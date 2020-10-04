@@ -1,0 +1,79 @@
+{
+    "tf": {
+        "title": "Teknoloji Fakültesi",
+        "coords":{
+            "_latitude": 38.028253,
+            "_longitude": 32.5082645
+        }
+    },
+    "zf": {
+        "title": "Ziraat Fakültesi",
+        "coords":{
+            "_latitude": 38.0284874,
+            "_longitude": 32.5094669
+        }
+    },
+    "vf": {
+        "title": "Veteriner Fakültesi",
+        "coords":{
+            "_latitude": 38.0285264,
+            "_longitude": 32.5111589
+        }
+    },
+    "yadam": {
+        "title": "Yabancı Diller Yüksekokulu",
+        "coords":{
+            "_latitude": 38.0285264,
+            "_longitude": 32.5111589
+        }
+    },
+    "iibf": {
+        "title": "İktisadi İdari Bilimler Fakültesi",
+        "coords":{
+            "_latitude": 38.0267711,
+            "_longitude": 32.5056968
+        }
+    },
+    "ef": {
+        "title": "Edebiyat Fakültesi",
+        "coords":{
+            "_latitude": 38.0267711,
+            "_longitude": 32.5056968
+        }
+    },
+    "ff": {
+        "title": "Fen Fakültesi",
+        "coords":{
+            "_latitude": 38.0252201,
+            "_longitude": 32.5046254
+        }
+    },
+    "hf": {
+        "title": "Hukuk Fakültesi",
+        "coords":{
+            "_latitude": 38.0252201,
+            "_longitude": 32.5046254
+        }
+    },
+    "tuf": {
+        "title": "Turizm Fakültesi",
+        "coords":{
+            "_latitude": 38.0230662,
+            "_longitude": 32.50719
+        }
+    },
+    "stf": {
+        "title": "Sanat ve Tasarım Fakültesi",
+        "coords":{
+            "_latitude": 38.0240796,
+            "_longitude": 32.5063421
+        }
+    },
+    "dhf": {
+        "title": "Diş Hekimliği Fakültesi",
+        "coords":{
+            "_latitude": 38.0225676,
+            "_longitude": 32.5080422
+        }
+    }
+}
